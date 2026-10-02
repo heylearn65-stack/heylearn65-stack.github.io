@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.heylearn.app",
+    "sha256_cert_fingerprints": ["48:02:10:E1:09:D2:68:00:7D:BE:EE:B3:0B:D5:7D:D0:D4:49:90:6E:9C:28:0D:03:71:D5:69:F5:B8:88:E8:94"]
+  }
+}]
